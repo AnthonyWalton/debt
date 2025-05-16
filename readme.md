@@ -63,8 +63,6 @@ Here’s how to decide:
 
 ---
 
-Would you like help calculating how a **Consumer Proposal** might look — e.g. what your payment could be? Or help finding a **non-profit credit counsellor** or LIT near you in Ontario?
-  
   
   
   
@@ -153,5 +151,3 @@ It’s the only path that:
 * Slashes your debt
 * Stops interest immediately
 * Gives you a fixed monthly payment and debt-free date
-
-Would you like help estimating what a **realistic monthly proposal payment** might be for your income level? Or find a **trustworthy LIT in Ontario** to talk to?
