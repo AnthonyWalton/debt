@@ -74,7 +74,9 @@ Would you like help calculating how a **Consumer Proposal** might look — e.g. 
 -----  
 -----  
 -----  
-
+  
+(I told it about Line of Credit increase but it would increase interest rate)  
+  
 Thanks — this new info changes the picture quite a bit. Let's walk through what this means and re-evaluate whether it's better to:
 
 1. **Expand your Line of Credit (LOC)** at 11.99% to consolidate everything, or
